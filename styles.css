@@ -29,7 +29,7 @@ body {
   position: relative;
   width: 80%;
   margin: 0 auto;
-  margin-top: 4rem;
+  margin-top: 14rem;
   display: grid;
   grid-template-columns: 1fr;
   background-color: var(--white);
